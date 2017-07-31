@@ -8,8 +8,9 @@ import static org.junit.Assert.assertEquals;
 public class BaseControllerTest {
 
 	@Test
-	public void welcomeName() 
+	public void dummyTest() 
 	{
+		assertEquals("dummyTest", "dummyTest");
      	}
 
 }
