@@ -1,9 +1,8 @@
 <html>
 <body>
-<h1>TCS Toronto Lab Page</h1>
+<h1> You have automated your first project </h1>
 
-<h3>Howdy folks !!!!</h3>
-<h3>Message : ${message} to the Lab !!!</h3>
-<h3>Counter : ${counter}</h3>
+<h3>eeeeehhhh!!!! I have automated my first project in Amazon EC2 using Jenkins, Maven, Git, Java, Tomcat !!!!</h3>
+<h3>way to go !!!!</h3>
 </body>
 </html>
